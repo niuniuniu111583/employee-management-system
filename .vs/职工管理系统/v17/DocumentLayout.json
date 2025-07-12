@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\niu--\\source\\repos\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9048F519-5F0B-482F-815C-3EF85C18E423}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|C:\\Users\\niu--\\source\\repos\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9048F519-5F0B-482F-815C-3EF85C18E423}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9048F519-5F0B-482F-815C-3EF85C18E423}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|C:\\Users\\niu--\\source\\repos\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\workerManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9048F519-5F0B-482F-815C-3EF85C18E423}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\workerManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9048F519-5F0B-482F-815C-3EF85C18E423}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|C:\\Users\\niu--\\source\\repos\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\workerManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9048F519-5F0B-482F-815C-3EF85C18E423}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\workerManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9048F519-5F0B-482F-815C-3EF85C18E423}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|C:\\Users\\niu--\\source\\repos\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\worker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9048F519-5F0B-482F-815C-3EF85C18E423}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\worker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9048F519-5F0B-482F-815C-3EF85C18E423}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|C:\\Users\\niu--\\source\\repos\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\worker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9048F519-5F0B-482F-815C-3EF85C18E423}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\worker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "workerManager.h",
+              "DocumentMoniker": "C:\\Users\\niu--\\source\\repos\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\workerManager.h",
+              "RelativeDocumentMoniker": "\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\workerManager.h",
+              "ToolTip": "C:\\Users\\niu--\\source\\repos\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\workerManager.h",
+              "RelativeToolTip": "\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\workerManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T13:20:12.887Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "workerManager.cpp",
+              "DocumentMoniker": "C:\\Users\\niu--\\source\\repos\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\workerManager.cpp",
+              "RelativeDocumentMoniker": "\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\workerManager.cpp",
+              "ToolTip": "C:\\Users\\niu--\\source\\repos\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\workerManager.cpp",
+              "RelativeToolTip": "\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\workerManager.cpp",
+              "ViewState": "AQIAAEABAAAAwv////8fwMwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T13:40:29.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "worker.h",
+              "DocumentMoniker": "C:\\Users\\niu--\\source\\repos\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\worker.h",
+              "RelativeDocumentMoniker": "\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\worker.h",
+              "ToolTip": "C:\\Users\\niu--\\source\\repos\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\worker.h",
+              "RelativeToolTip": "\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\worker.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-31T08:39:19.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "worker.cpp",
+              "DocumentMoniker": "C:\\Users\\niu--\\source\\repos\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\worker.cpp",
+              "RelativeDocumentMoniker": "\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\worker.cpp",
+              "ToolTip": "C:\\Users\\niu--\\source\\repos\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\worker.cpp",
+              "RelativeToolTip": "\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\worker.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-31T08:46:32.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.cpp",
+              "DocumentMoniker": "C:\\Users\\niu--\\source\\repos\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.cpp",
+              "RelativeDocumentMoniker": "\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.cpp",
+              "ToolTip": "C:\\Users\\niu--\\source\\repos\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.cpp",
+              "RelativeToolTip": "\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T13:11:50.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
